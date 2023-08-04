@@ -1,4 +1,4 @@
-some_string = input('Enter your eat >>>')
+some_string = input('Enter your eat >>>').lower()
 
 smiling_face_with_heart_shaped_eyes = ' \U0001F60D'
 
